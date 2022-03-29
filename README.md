@@ -1,2 +1,2 @@
 # Machine-Learning-con-SQL
-In questo repository implemento algoritmi di Machine Learning con l'SQL
+Nello script SQL del repository implementiamo l'algoritmo del Perceptron per risolvere un problema di classificazione binaria sul dataset Iris.
